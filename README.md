@@ -50,15 +50,14 @@ Zamanı geçmişse ve tamamlanmamışsa kırmızı olur , tamamlanmış ise yeş
 <h3>Part 1</h3>
 
 
-https://github.com/nurullhkrds/todoListFullstack/assets/115217234/5aa8555f-a313-4b3b-a73a-0c4774947fd2
+https://github.com/nurullhkrds/todoListFullstack/assets/115217234/844ad2d2-999f-41e8-a168-26310d2e5120
 
 
 
 <h3>Part 2</h3>
 
 
-
-https://github.com/nurullhkrds/todoListFullstack/assets/115217234/ad38e29d-8cdd-47fe-86fb-4fb7f7e57d08
+https://github.com/nurullhkrds/todoListFullstack/assets/115217234/703a9268-8c40-482b-8306-c2768b800f7c
 
 
 
