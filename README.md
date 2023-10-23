@@ -48,11 +48,21 @@ Zamanı geçmişse ve tamamlanmamışsa kırmızı olur , tamamlanmış ise yeş
 
 
 <h3>Part 1</h3>
-https://github.com/nurullhkrds/react/assets/115217234/48d79f05-349c-40e5-b2ca-5c728ca3309a
+
+
+https://github.com/nurullhkrds/todoListFullstack/assets/115217234/5aa8555f-a313-4b3b-a73a-0c4774947fd2
+
 
 
 <h3>Part 2</h3>
-https://github.com/nurullhkrds/react/assets/115217234/a8e122c9-ba2c-49ea-95fe-29f8a54c7352
+
+
+
+https://github.com/nurullhkrds/todoListFullstack/assets/115217234/ad38e29d-8cdd-47fe-86fb-4fb7f7e57d08
+
+
+
+
 
 
 
