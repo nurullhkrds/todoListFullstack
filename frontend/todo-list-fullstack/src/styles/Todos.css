@@ -1,0 +1,12 @@
+.active{
+    
+   background: green !important;
+  
+    
+}
+
+.timeOver{
+
+    background: red !important;
+    opacity: 0.8;
+}
